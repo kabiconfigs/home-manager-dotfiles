@@ -48,6 +48,7 @@ in {
      mpv
      imv
      zathura
+     neovim
    ];
      xdg.configFile."BetterDiscord/data/stable/custom.css".source = ./bdtheme.css;
      xdg.configFile."btop/themes/btop.theme".source = ./btop.theme;
